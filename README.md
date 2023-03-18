@@ -1,6 +1,17 @@
 ### Hi there , I'm Yasin 👋 👋 👋
-<img style="border-radius:50%"  src="https://media.licdn.com/dms/image/D4D03AQGaQ_TyE_MPdg/profile-displayphoto-shrink_400_400/0/1679181060593?e=1684368000&v=beta&t=bDLCQb5kJFKh9obO2yQacurkMTMxQZCOAckkHAFvNK4" align="right">
-### <style> img {border-radius: 50%} </style>
+<img style="border-radius:50%"  src="https://media.licdn.com/dms/image/D4D03AQGaQ_TyE_MPdg/profile-displayphoto-shrink_400_400/0/1679181060593?e=1684368000&v=beta&t=bDLCQb5kJFKh9obO2yQacurkMTMxQZCOAckkHAFvNK4" align="right" 
+     width: 319px;
+
+height: 317px;
+
+border-radius: 175px;
+
+border-color: #ecf0f1;
+
+border-width: 8px;
+
+border-style: solid;>
+
 Hi, Welcome To My Github Profile 
 I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
 <br>
