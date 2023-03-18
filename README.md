@@ -1,5 +1,5 @@
 ### Hi there , I'm Yasin 👋 👋 👋
-<img src="https://media.licdn.com/dms/image/D4D03AQGaQ_TyE_MPdg/profile-displayphoto-shrink_400_400/0/1679181060593?e=1684368000&v=beta&t=bDLCQb5kJFKh9obO2yQacurkMTMxQZCOAckkHAFvNK4" align="right" width="250" 
+ 
 
 
 
@@ -19,7 +19,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <font color="pink"> Coffee is how I keep up with code ☕ </font> 
 
 <br><br><br>
-### <h2 align="center">Reach out to me :</h2>
+<h2 align="center">Reach out to me :</h2>
 <div class="container">
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yasinozkaynak&color=green" alt="yasinozkaynak :: Profile Stats"></a>
