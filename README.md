@@ -32,5 +32,3 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </p>
-
