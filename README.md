@@ -4,9 +4,11 @@ Hi, Welcome To My Github Profile
 I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
 <br>
 <br>
+<div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - - 📫 How to reach me: <a href="mailto:yasnozkaynk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yasnozkaynk@gmail.com-blue?style=flat&logo=gmail"></a>
+   </div>
 
 <br><br>
 <h1 align="center">🌐 Reach out to me:</h1>
