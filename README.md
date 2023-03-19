@@ -35,5 +35,6 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </p>
+<br>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="600" height="250" >
