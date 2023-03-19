@@ -25,7 +25,10 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35" height="35">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="35" height="35">
 <img src="https://www.stepsoftware.com/images/services/c-sharp.png" width="35" height="35">
-<img src="https://silentinstallhq.com/wp-content/uploads/2020/12/NET.png" width="35" height="35">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="70" height="30">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="100" height="30">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="125" height="30">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="120" height="30">
 </div>
 <br>
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
