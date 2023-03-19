@@ -1,11 +1,6 @@
 ### Hi there , I'm Yasin 👋 👋 👋
  <img class="yuvarlak" src="https://avatars.githubusercontent.com/u/77541257?v=4" width="250" height="250" align="right">
 <style>
-img.yuvarlak {
-    border-radius: 50%;
-    
-} 
-</style>
 Hi, Welcome To My Github Profile 
 I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
 <br>
