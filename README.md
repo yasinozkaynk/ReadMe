@@ -5,8 +5,8 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <br>
 <br>
 <div>
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
+   - 🔭 I’m currently working on <a href="https://github.com/yasinozkaynk/TraversalCoreProje">TraversalCoreProje</a> <br>
+- 🌱 I’m currently learning .Net Core MVC<br>
    </div>
 
 <br><br>
