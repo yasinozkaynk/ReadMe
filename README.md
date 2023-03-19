@@ -31,7 +31,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="120" height="35">
 </div>
 <br>
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<h2 align="center">bar_chartMy : GitHub Stats :</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </p>
