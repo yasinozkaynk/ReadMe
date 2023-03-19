@@ -38,8 +38,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <img height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=yasinozkaynk&theme=dark&hide_border=false"> </p>
 <br>
 <h2>✍️ My Own Motivation </h2>
-<br>
 <div>
-   <h3>Success is the art of tackling difficulties !!!</h3>
-    <h3>" Learn from yesterday, live today, hope for tomorrow "</h3>
+ <h3>✨ Success is the art of tackling difficulties !!!</h3>
+ <h3>✨ " Learn from yesterday, live today, hope for tomorrow "</h3>
    </div>
