@@ -7,7 +7,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <div>
 - 🔭 I’m currently working on ...<br>
 - 🌱 I’m currently learning ...<br>
-- 📫 How to reach me: <a href="mailto:yasnozkaynk@gmail.com"></a>
+- 📫 How to reach me: <img alt="Email" src="https://img.shields.io/badge/Email-yasnozkaynk@gmail.com-blue?style=flat&logo=gmail">
    </div>
 
 <br><br>
