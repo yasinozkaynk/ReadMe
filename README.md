@@ -34,7 +34,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </p>
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=radical"> </p>
 <br>
 <h2>✍️ Random Dev Quote </h2>
 <br>
