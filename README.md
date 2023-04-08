@@ -36,9 +36,9 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <br>
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+[<img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
-<img height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=yasinozkaynk&theme=dark&hide_border=false"> </p>
+<img height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=yasinozkaynk&theme=dark&hide_border=false"> </p>](url)
 <br>
 <h2>✍️ My Own Motivation </h2>
 <div>
